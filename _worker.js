@@ -9,7 +9,7 @@ const apiKey = "gTepoq5_G70T7J6VGCKpDAthv4XQx_6qQ3bz4i4q"; // Ganti dengan Globa
 const apiEmail = "adventure6890@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "831758c8ee8a1eb49a3f86db3722a019"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "e91dd6e297f2125748bb8d80b94c274c"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
-let isApiReady = false;
+let isApiReady = true;
 let proxyIP = "";
 let cachedProxyList = [];
 
